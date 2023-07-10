@@ -1,0 +1,167 @@
+
+
+body {
+    background-color: skyblue;}
+    .title{
+        color: indigo
+    }
+    .title{
+        background-color: greenyellow;
+        text-align: center;
+    
+    }
+    .text{
+        background-color: yellow;
+        width: 800px;
+        margin: 0 auto;
+        border-radius: 30px;
+        padding: 10px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+        font-weight: bold;
+        border: 8px solid red;
+        box-sizing: border-box;
+    }
+    .title2{
+        text-align: center;
+        list-style: none;
+    
+    }
+    .title3{
+        color: indigo;
+    }
+    .title3{
+        background-color: greenyellow;
+        text-align: center;
+        width: 300px;
+        border-radius: 10px;
+        margin: 20px auto;
+        box-sizing: border-box;
+    }
+   .main-img{
+        width: max-content;
+        margin: 0 auto;
+        }
+
+    .text2{
+        background-color: yellow;
+        width: 800px;
+        margin: 0 auto;
+        border-radius: 30px ;
+        padding: 15px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 18px;
+        font-weight: bold;
+        border: 5px solid blueviolet;
+
+
+    }
+    .title4{
+        color: indigo;
+
+    }
+    .title4{
+        background-color:greenyellow; 
+        text-align: center;
+        width: 300px;
+        border-radius: 15px;
+        margin: 20px auto ;
+        box-sizing: border-box;
+    }
+    .main-img2{
+        width: max-content;
+        margin: 0 auto;
+        border-radius: 10px;
+        border: 3px solid black;
+        
+    }
+    .text3{
+    background-color: yellow;
+    width: 800px;
+    margin: 0 auto;
+border-radius: 15px;
+border: 5px solid rebeccapurple;
+padding: 15px;
+font-family: 'Times New Roman', Times, serif;
+font-size: 18px;
+font-weight: bold;
+    }
+    .link{
+        text-align: center;
+        color: chocolate;
+    }
+.link2{
+    text-align: center;
+    color: chocolate;
+}
+.title01{
+    color: indigo;
+    background-color: greenyellow;
+    text-align: center;
+    }
+.video{
+    width: max-content;
+    margin: 0 auto;
+}
+.text01{
+    background-color:yellow;
+    width: 800px;
+    margin: 0 auto;
+    padding: 15px;
+    border-radius: 15px;
+    border: 5px solid rebeccapurple;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+.title02{
+    color: indigo;
+    background-color: greenyellow;
+    text-align: center;
+    border-radius: 15px;
+    width: 500px;
+    margin: 15px auto;
+}   
+
+.box{
+    text-align: center;
+}
+.titlenext{
+    background-color:yellow;
+    width: 800px;
+    margin: 0 auto;
+    padding:18px;
+    border-radius: 10px;
+    border: 5px solid rebeccapurple;
+
+}
+.title03{
+    background-color: greenyellow;
+    text-align: center;
+    border-radius: 15px;
+    margin: 15px auto;
+    width: 500px;
+    border: 5px solid red;
+}
+    .maps{
+        text-align: center;
+     
+    }
+    .link03{
+        text-align: center;
+        color: chartreuse;
+        
+    }
+    .titletg{
+        background-color: blueviolet;
+        border-radius: 15px;
+        margin: 15px auto;
+        width: 400px;
+        border: 5px solid whitesmoke;
+    }
+
+    .png{
+        border-radius: 20px;
+        border: 5px solid rebeccapurple;
+
+    }
